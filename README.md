@@ -45,7 +45,7 @@ management and processing of donations
 .After Entering the New Organisation Details, when submit the Data:
 <img width="960" alt="Screenshot 2023-08-03 190718" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/7ddcba0e-4646-493d-a34d-110e81db3abb">
 
-.After Admin Authorization the organization wil be add on the Organisations page and get an access to the Website
+.After Admin Authorization, the organization wil be add on the Organisations page and get an access to the Website
 >After Getting Access:(Organisation Home Page):
 <img width="944" alt="Screenshot 2023-08-03 191206" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/ba5d3f35-9dcc-420a-a750-e7d5990ecb49">
 
