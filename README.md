@@ -12,13 +12,17 @@ management and processing of donations
 <img width="960" alt="Screenshot 2023-08-03 185642" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/9168ac7f-f8e5-466d-9cb7-2d1701841f43">
 <img width="947" alt="Screenshot 2023-08-03 185800" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/42d69216-9cb3-4921-aeeb-a8973de358b1">
 <img width="938" alt="Screenshot 2023-08-03 185859" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/63f6bbda-1ba8-4e1c-ab4f-7e57f50c2608">
->Login Page:
+
+>Login Page: &nbsp
 <img width="960" alt="Screenshot 2023-08-03 190009" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/b0ac4646-d223-4af1-a8aa-fe21b368c98b">
->Registration Page:
+
+>Registration Page: &nbsp
 <img width="935" alt="Screenshot 2023-08-03 190227" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/88552466-7e12-4759-8d39-c15f314f568f">
->Contact Page:
+
+>Contact Page: &nbsp
 <img width="946" alt="Screenshot 2023-08-03 190313" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/3efb01bd-6fb9-45e8-bc96-92d7783eb2e9">
->Organisations Page:
+
+>Organisations Page: &nbsp
 <img width="948" alt="Screenshot 2023-08-04 144509" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/0080bb90-50aa-45de-8bef-435b11f63b87">
 
 >Note:Without Login you cannot access Donation Page and Add Organisation page
