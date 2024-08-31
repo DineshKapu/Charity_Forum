@@ -1,3 +1,4 @@
+#CHARITY FORUM
 • This project centralized charity donations, aiding individuals in need with surplus
 essentials like food, water, clothing, books, and medical supplies. It enhanced
 transparency and accountability in the charity sector, supporting diverse causes and
@@ -7,7 +8,7 @@ donation channels.
 •The project utilized JavaScript,CSS,Bootstrap and HTML for the front-end and Python with
 Flask for the back-end, along with SQL Lite for the database, enabling efficient
 management and processing of donations
-.These are some images of the project:
+##These are some images of the project:
 >Home Page:
 <img width="960" alt="Screenshot 2023-08-03 185642" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/9168ac7f-f8e5-466d-9cb7-2d1701841f43">
 <img width="947" alt="Screenshot 2023-08-03 185800" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/42d69216-9cb3-4921-aeeb-a8973de358b1">
