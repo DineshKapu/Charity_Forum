@@ -1,70 +1,101 @@
-# CHARITY FORUM
+# Charity Forum
 
-• This project centralized charity donations, aiding individuals in need with surplus
-essentials like food, water, clothing, books, and medical supplies. It enhanced
-transparency and accountability in the charity sector, supporting diverse causes and
-distributing donations efficiently. By simplifying the process, it enabled easier
-support for preferred causes without extensive research or navigating multiple
-donation channels.
-•The project utilized JavaScript,CSS,Bootstrap and HTML for the front-end and Python with
-Flask for the back-end, along with SQL Lite for the database, enabling efficient
-management and processing of donations.
+Welcome to **Charity Forum**, a centralized platform designed to streamline charity donations and enhance the impact of giving. This project aims to bridge the gap between donors and those in need, enabling the distribution of surplus essentials such as food, water, clothing, books, and medical supplies. With a focus on transparency and accountability, Charity Forum supports a wide array of causes, making it easier for individuals to contribute to their preferred charities without extensive research or the hassle of navigating multiple donation channels.
 
-# Preview:Open [Charity Forum](https://charityforum.pythonanywhere.com/)
+## 🌟 Key Features
 
-## These are some images of the project:
-## Home Page:
-<img width="960" alt="Screenshot 2023-08-03 185642" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/9168ac7f-f8e5-466d-9cb7-2d1701841f43">
-<img width="947" alt="Screenshot 2023-08-03 185800" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/42d69216-9cb3-4921-aeeb-a8973de358b1">
-<img width="938" alt="Screenshot 2023-08-03 185859" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/63f6bbda-1ba8-4e1c-ab4f-7e57f50c2608">
+- **Centralized Donations:** Simplifies the donation process by consolidating multiple charitable causes into a single platform.
+- **Enhanced Transparency:** Provides clear visibility into where donations are going, ensuring accountability.
+- **User-Friendly Interface:** Intuitive and easy-to-navigate design, allowing users to quickly find and support causes they care about.
+- **Secure Payment Gateway:** Facilitates safe and secure transactions for donations.
+- **Admin and User Roles:** Distinct roles for users and administrators, with special access controls for managing donations, organizations, and user data.
 
-## Login Page:
-<img width="960" alt="Screenshot 2023-08-03 190009" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/b0ac4646-d223-4af1-a8aa-fe21b368c98b">
+## 🛠️ Tech Stack
 
-## Registration Page:
-<img width="935" alt="Screenshot 2023-08-03 190227" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/88552466-7e12-4759-8d39-c15f314f568f">
+- **Frontend:** 
+  - JavaScript
+  - CSS
+  - Bootstrap
+  - HTML
+- **Backend:**
+  - Python
+  - Flask
+- **Database:**
+  - SQLite
 
-## Contact Page:
-<img width="946" alt="Screenshot 2023-08-03 190313" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/3efb01bd-6fb9-45e8-bc96-92d7783eb2e9">
+## 🚀 Project Demo
 
-## Organisations Page:
-<img width="948" alt="Screenshot 2023-08-04 144509" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/0080bb90-50aa-45de-8bef-435b11f63b87">
+[Visit Charity Forum](https://charityforum.pythonanywhere.com/)
 
-# Note:Without Login you cannot access Donation Page and Add Organisation page
+## 📸 Screenshots
 
-# After User Login:
->Home Page:
-<img width="960" alt="Screenshot 2023-08-03 190117" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/3cca49b1-3e9a-4436-bbd8-26d19ea71035">
+### Home Page
+![Home Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/9168ac7f-f8e5-466d-9cb7-2d1701841f43)
 
-## Payment Page:
-<img width="855" alt="Screenshot 2023-08-03 190353" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/97862291-cdb4-478b-ab08-93b64357443f">
-<img width="949" alt="Screenshot 2023-08-03 190453" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/e6d99be4-1485-4304-8783-2b8f66827f1c">
-<img width="918" alt="Screenshot 2023-08-03 190533" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/423e2b07-ee32-4fd2-8c27-9b0506ff1b8c">
+![More Home Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/42d69216-9cb3-4921-aeeb-a8973de358b1)
 
-## After Payment:
-<img width="960" alt="Screenshot 2023-08-03 190619" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/e983c19b-4226-4943-b954-24bba631631c">
+![Even More Home Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/63f6bbda-1ba8-4e1c-ab4f-7e57f50c2608)
 
-## Add Organisation Page:
-<img width="947" alt="image" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/0ad3f532-a2e5-443b-899d-fd0134a3f165">
+### Login Page
+![Login Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/b0ac4646-d223-4af1-a8aa-fe21b368c98b)
 
-## After Entering the New Organisation Details, when submit the Data,the admin will preview the Organisation:
-<img width="960" alt="Screenshot 2023-08-03 190718" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/7ddcba0e-4646-493d-a34d-110e81db3abb">
+### Registration Page
+![Registration Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/88552466-7e12-4759-8d39-c15f314f568f)
 
-# After Admin Authorization, the organization wil be add on the Organisations page and get an access to the Website
-## After Getting Access:(Organisation Home Page):
-<img width="944" alt="Screenshot 2023-08-03 191206" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/ba5d3f35-9dcc-420a-a750-e7d5990ecb49">
+### Contact Page
+![Contact Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/3efb01bd-6fb9-45e8-bc96-92d7783eb2e9)
 
-# DATABASE Details:
-## Note:Database Details can be edit,update and viewed by Admin only
-## Users Data:
-<img width="752" alt="Screenshot 2023-08-04 171230" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/cb8019a3-8e6f-4a30-9dcc-38b2c0a3527b">
+### Organisations Page
+![Organisations Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/0080bb90-50aa-45de-8bef-435b11f63b87)
 
-## Organisations Data:
-<img width="757" alt="Screenshot 2023-08-04 171113" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/201e43dc-538c-4648-9d19-30eff3330b59">
+### Donation Page (Post Login)
+![Donation Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/3cca49b1-3e9a-4436-bbd8-26d19ea71035)
 
-## Donation Data:
-<img width="739" alt="Screenshot 2023-08-04 171501" src="https://github.com/DineshKapu/Charity_Forum/assets/127214742/5a54014c-8355-43a1-98fb-3f3d384b39d6">
+### Payment Page
+![Payment Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/97862291-cdb4-478b-ab08-93b64357443f)
 
+![More Payment](https://github.com/DineshKapu/Charity_Forum/assets/127214742/e6d99be4-1485-4304-8783-2b8f66827f1c)
+
+![After Payment](https://github.com/DineshKapu/Charity_Forum/assets/127214742/e983c19b-4226-4943-b954-24bba631631c)
+
+### Add Organisation Page
+![Add Organisation](https://github.com/DineshKapu/Charity_Forum/assets/127214742/0ad3f532-a2e5-443b-899d-fd0134a3f165)
+
+### Organisation Details Preview (Admin Authorization)
+![Organisation Details Preview](https://github.com/DineshKapu/Charity_Forum/assets/127214742/7ddcba0e-4646-493d-a34d-110e81db3abb)
+
+### Organisation Home Page (Post Authorization)
+![Organisation Home Page](https://github.com/DineshKapu/Charity_Forum/assets/127214742/ba5d3f35-9dcc-420a-a750-e7d5990ecb49)
+
+## 🗃️ Database Management
+
+### Users Data
+*Accessible by Admin only*
+
+![Users Data](https://github.com/DineshKapu/Charity_Forum/assets/127214742/cb8019a3-8e6f-4a30-9dcc-38b2c0a3527b)
+
+### Organisations Data
+*Accessible by Admin only*
+
+![Organisations Data](https://github.com/DineshKapu/Charity_Forum/assets/127214742/201e43dc-538c-4648-9d19-30eff3330b59)
+
+### Donation Data
+*Accessible by Admin only*
+
+![Donation Data](https://github.com/DineshKapu/Charity_Forum/assets/127214742/5a54014c-8355-43a1-98fb-3f3d384b39d6)
+
+## 👤 User Access
+
+- **Login Required:** Users must be logged in to access the Donation Page and the Add Organisation page.
+- **Admin Access:** Admin has exclusive rights to view, edit, and update database details.
+
+
+## 📧 Contact
+
+For any queries or support, please reach out via:
+
+- **Email:** [dineshkapu18@gmail.com](mailto:dineshkapu18@gmail.com)
+- **GitHub:** [DineshKapu](https://github.com/DineshKapu)
 
 
 
