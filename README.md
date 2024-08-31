@@ -8,7 +8,9 @@ support for preferred causes without extensive research or navigating multiple
 donation channels.
 •The project utilized JavaScript,CSS,Bootstrap and HTML for the front-end and Python with
 Flask for the back-end, along with SQL Lite for the database, enabling efficient
-management and processing of donations
+management and processing of donations.
+
+# Preview:Open [Charity Forum](https://charityforum.pythonanywhere.com/)
 
 ## These are some images of the project:
 ## Home Page:
